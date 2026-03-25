@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi,I'm Shraddha Gupta!
+
+I am currently a first year student pursuing Btech in Computer Science with specialisation in Artificial Intelligence and Machine Learning.
+
+I hope to learn how to leverage digital tools to collaborate effectively on global engineering projects.
+
 
 <!--
 **shraddha12312/Shraddha12312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
